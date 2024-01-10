@@ -1,0 +1,6 @@
+enclave/Enclave_t.*
+enclave/Enclave_u.*
+enclave/*.o
+enclave/*.so
+enclave/.config_HW_RELEASE_x64
+Enclave_u.*
